@@ -13,6 +13,7 @@ Summary of all my Projects and Marketing Activities:
 . Project 3
 
 
+
 **Other Topics:**
   1. _Text Marketing_
   2. _Solar Energy_
