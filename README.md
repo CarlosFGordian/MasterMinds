@@ -22,7 +22,7 @@ Summary of all my Projects and Marketing Activities:
 
 
 
-Currrently experimenting with **Texting Marketing** to create the best Personal Branding Services - Contact us or just text "github" to 866-694-9515 today!
+Currrently mastering **Texting Marketing** to create the best Personal Branding Services - Contact us or just text "github" to 866-694-9515 today!
 
 
 
