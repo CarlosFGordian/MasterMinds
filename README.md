@@ -8,9 +8,9 @@ Summary of all my Projects and Marketing Activities:
 
 
 # New Projects:
-Project 1
-Project 2
-roject 3
+. Project 1
+. Project 2
+. Project 3
 
 
 **Other Topics:**
