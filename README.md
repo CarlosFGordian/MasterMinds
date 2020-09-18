@@ -1,4 +1,4 @@
-## Welcome to My GitHub Official Coding Site!
+## Welcome to My GitHub Coding Site!
 
 Summary of all my Projects and Marketing Activities:
 
