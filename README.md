@@ -7,10 +7,10 @@ Summary of all my Projects and Marketing Activities:
 ### GordianDomains.com - [Online Hosting for Domains ](https://GordianDomains.com).
 
 
-New Projects:
-# Project 1
-# Project 2
-# Project 3
+#New Projects:
+Project 1
+Project 2
+Project 3
 
 
 **Other Topics:**
