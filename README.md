@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Official Coding Site!
 
-You can use the [editor on GitHub](https://github.com/CarlosFGordian/carlosfgordian.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Summary of all my Projects and Marketing Activities:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### WebPages.TeL - [Online Directory for my main Projects](https://WebPages.TeL).
+### Gordian.Market - [Blog for all my Projects](https://Gordian.Market).
+### GordianDomains.com - [Online Hosting for Domains ](https://GordianDomains.com).
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+New Projects:
+# Project 1
+# Project 2
+# Project 3
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**Other Topics:**
+  1. _Text Marketing_
+  2. _Solar Energy_
+  3. _Digital Money_
+  4. _Collaboration of `Code` text files for AI_
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Currrently experimenting with **Texting Marketing** to create the best Personal Branding Services - Contact us or just text "github" to 866-694-9515 today!
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CarlosFGordian/carlosfgordian.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Examples: [Link](url) and ![Image](src)
+
+
+Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
