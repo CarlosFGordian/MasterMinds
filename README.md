@@ -4,7 +4,7 @@ Summary of all my Projects and Marketing Activities:
 
 ### WebPages.TeL - [Online Directory for my main Projects](https://WebPages.TeL).
 ### Gordian.Market - [Blog for all my Projects](https://Gordian.Market).
-### GordianDomains.com - [Online Hosting for Domains ](https://GordianDomains.com).
+### GordianDomains.com - [Online Hosting for Domains ](https://www.GordianDomains.com).
 
 
 # New Projects:
