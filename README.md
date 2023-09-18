@@ -1,13 +1,13 @@
 ## Welcome to My GitHub Coding Site!
 
-Summary of all my Projects and Marketing Activities:
+Summary of my Online Interests: Social-Life Journey, Marketing Opportunities, Software Development and Technology Projects
 
-### WebPages.TeL - [Online Directory for my main Projects](https://WebPages.TeL).
-### Gordian.Market - [Blog for all my Projects](https://Gordian.Market).
-### GordianDomains.com - [Online Hosting for Domains ](https://www.GordianDomains.com).
+### WebPages.TeL - [Online Directory for my Next Projects](http://WebPages.TeL).
+### Gordian.Market - [Blog for future Business-Marketing Projects](http://Gordian.Market).
+### CarlosGordian.com - [Carlos Life Adventure](https://www.CarlosGordian.com).
 
 
-# New Projects:
+# Future New Projects:
 . Project 1
 . Project 2
 . Project 3
