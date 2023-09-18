@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Coding Site!
 
-Summary of my Online Interests: Social-Life Journey, Marketing Opportunities, Software Development and Technology Projects
+Summary of my Online Interests: Social-Life Journey, Music, Marketing Opportunities, Software Development and Technology Projects
 
 ### WebPages.TeL - [Online Directory for my Next Projects](http://WebPages.TeL).
 ### Gordian.Market - [Blog for future Business-Marketing Projects](http://Gordian.Market).
